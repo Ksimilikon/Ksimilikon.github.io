@@ -210,7 +210,7 @@ color: #ffffff;
 .cards{
     display: flex;
     flex-direction: row;
-    margin-left: 11.5%;
+    justify-content: center;
     gap: 30px;
 }
 .end_div1{
